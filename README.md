@@ -1,5 +1,8 @@
 # DFCirrus
-Sky background modelling for inidividual frames with Galactic Cirrus taken by Dragonfly
+Modules for modelling Galactic Cirrus imaging obtained by Dragonfly Telephoto Array.
+
+- Sky background modelling using Planck thermal dust models.
+- Cirrus decomposition using morphology and colors.
 
 ### Dependencies
 
